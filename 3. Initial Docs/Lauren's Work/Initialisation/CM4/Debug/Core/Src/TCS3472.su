@@ -1,0 +1,4 @@
+../Core/Src/TCS3472.c:10:6:TCS3472_Init	16	static
+../Core/Src/TCS3472.c:14:10:TCS3472_ReceiveStatus	16	static
+../Core/Src/TCS3472.c:18:6:TCS3472_Transmit	16	static
+../Core/Src/TCS3472.c:22:9:TCS3472_Create	24	static
